@@ -1,0 +1,8 @@
+net\epamproj\model\Services.class
+net\epamproj\model\User.class
+net\epamproj\model\Role.class
+net\epamproj\dao\UserDAO.class
+net\epamproj\model\Master.class
+net\epamproj\service\UserService.class
+net\epamproj\servlets\UserServlet.class
+net\epamproj\bl\Util.class
